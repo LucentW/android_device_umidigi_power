@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_aubrey.mk
+	$(LOCAL_DIR)/omni_power.mk
